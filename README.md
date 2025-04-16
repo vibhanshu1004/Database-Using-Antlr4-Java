@@ -1,4 +1,4 @@
-# 🗄 MyDB — A Tiny SQL-Like In-Memory Database Engine (ANTLR + Java)
+# 🗄 MyDB — SQL-Like In-Memory Database Engine (ANTLR + Java)
 
 Welcome to *MyDB*, a lightweight, custom-built in-memory database system written in Java.  
 It supports basic SQL operations like CREATE, INSERT, SELECT, UPDATE, DELETE, EXPORT, and more!
