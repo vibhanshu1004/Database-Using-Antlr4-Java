@@ -162,28 +162,6 @@ SELECT id, name FROM users;
 
 ---
 
-## 📌 License
 
-This project is licensed under the MIT License.  
-Feel free to fork, contribute, and experiment!
 
----
 
-## 💡 Future Scope
-
-- Add WHERE ... AND/OR ... logic
-- Support ALTER TABLE
-- CLI autocompletion & syntax highlighting
-- File-based persistent storage
-- JUnit test suite
-
----
-
-## 🙌 Credits
-
-- Inspired by [tiny-db](https://github.com/dborchard/tiny-db)
-- Built with ❤ by [Your Name](https://github.com/your-username)
-
----
-
-> Happy hacking with SQL and ANTLR! 🚀
